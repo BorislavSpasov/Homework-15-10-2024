@@ -1,0 +1,14 @@
+C:\Users\thesh\source\repos\HomeworkZad5\HomeworkZad5\bin\Debug\net8.0\HomeworkZad5.exe
+C:\Users\thesh\source\repos\HomeworkZad5\HomeworkZad5\bin\Debug\net8.0\HomeworkZad5.deps.json
+C:\Users\thesh\source\repos\HomeworkZad5\HomeworkZad5\bin\Debug\net8.0\HomeworkZad5.runtimeconfig.json
+C:\Users\thesh\source\repos\HomeworkZad5\HomeworkZad5\bin\Debug\net8.0\HomeworkZad5.dll
+C:\Users\thesh\source\repos\HomeworkZad5\HomeworkZad5\bin\Debug\net8.0\HomeworkZad5.pdb
+C:\Users\thesh\source\repos\HomeworkZad5\HomeworkZad5\obj\Debug\net8.0\HomeworkZad5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thesh\source\repos\HomeworkZad5\HomeworkZad5\obj\Debug\net8.0\HomeworkZad5.AssemblyInfoInputs.cache
+C:\Users\thesh\source\repos\HomeworkZad5\HomeworkZad5\obj\Debug\net8.0\HomeworkZad5.AssemblyInfo.cs
+C:\Users\thesh\source\repos\HomeworkZad5\HomeworkZad5\obj\Debug\net8.0\HomeworkZad5.csproj.CoreCompileInputs.cache
+C:\Users\thesh\source\repos\HomeworkZad5\HomeworkZad5\obj\Debug\net8.0\HomeworkZad5.dll
+C:\Users\thesh\source\repos\HomeworkZad5\HomeworkZad5\obj\Debug\net8.0\refint\HomeworkZad5.dll
+C:\Users\thesh\source\repos\HomeworkZad5\HomeworkZad5\obj\Debug\net8.0\HomeworkZad5.pdb
+C:\Users\thesh\source\repos\HomeworkZad5\HomeworkZad5\obj\Debug\net8.0\HomeworkZad5.genruntimeconfig.cache
+C:\Users\thesh\source\repos\HomeworkZad5\HomeworkZad5\obj\Debug\net8.0\ref\HomeworkZad5.dll

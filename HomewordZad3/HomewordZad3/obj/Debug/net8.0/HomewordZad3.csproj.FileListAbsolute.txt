@@ -1,0 +1,14 @@
+C:\Users\thesh\source\repos\HomewordZad3\HomewordZad3\bin\Debug\net8.0\HomewordZad3.exe
+C:\Users\thesh\source\repos\HomewordZad3\HomewordZad3\bin\Debug\net8.0\HomewordZad3.deps.json
+C:\Users\thesh\source\repos\HomewordZad3\HomewordZad3\bin\Debug\net8.0\HomewordZad3.runtimeconfig.json
+C:\Users\thesh\source\repos\HomewordZad3\HomewordZad3\bin\Debug\net8.0\HomewordZad3.dll
+C:\Users\thesh\source\repos\HomewordZad3\HomewordZad3\bin\Debug\net8.0\HomewordZad3.pdb
+C:\Users\thesh\source\repos\HomewordZad3\HomewordZad3\obj\Debug\net8.0\HomewordZad3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thesh\source\repos\HomewordZad3\HomewordZad3\obj\Debug\net8.0\HomewordZad3.AssemblyInfoInputs.cache
+C:\Users\thesh\source\repos\HomewordZad3\HomewordZad3\obj\Debug\net8.0\HomewordZad3.AssemblyInfo.cs
+C:\Users\thesh\source\repos\HomewordZad3\HomewordZad3\obj\Debug\net8.0\HomewordZad3.csproj.CoreCompileInputs.cache
+C:\Users\thesh\source\repos\HomewordZad3\HomewordZad3\obj\Debug\net8.0\HomewordZad3.dll
+C:\Users\thesh\source\repos\HomewordZad3\HomewordZad3\obj\Debug\net8.0\refint\HomewordZad3.dll
+C:\Users\thesh\source\repos\HomewordZad3\HomewordZad3\obj\Debug\net8.0\HomewordZad3.pdb
+C:\Users\thesh\source\repos\HomewordZad3\HomewordZad3\obj\Debug\net8.0\HomewordZad3.genruntimeconfig.cache
+C:\Users\thesh\source\repos\HomewordZad3\HomewordZad3\obj\Debug\net8.0\ref\HomewordZad3.dll
